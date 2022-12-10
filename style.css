@@ -138,7 +138,6 @@ main {
     transition: .5s;
 }
 .btnPayment:hover {
-    background-color: #766cf1;
     border-radius: 5rem;
     transition: 1s;
 }
